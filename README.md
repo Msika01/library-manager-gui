@@ -17,6 +17,13 @@ It allows users to add, remove, borrow, return, and search books. Features inclu
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Main Interface
+![Main Interface](screenshots/main_ui.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python 3.x
@@ -36,3 +43,4 @@ It allows users to add, remove, borrow, return, and search books. Features inclu
    ```bash
    git clone https://github.com/Msika01/library-manager-gui.git
    cd library-manager-gui
+
