@@ -18,7 +18,7 @@ It allows users to add, remove, borrow, return, and search books. Features inclu
 ---
 
 ### 🖥️ Main Interface
-\.![Main Interface](screenshots/main_ui.png)
+![Main Interface](screenshots/main_ui.png)
 
 ---
 
