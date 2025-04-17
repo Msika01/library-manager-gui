@@ -1,4 +1,4 @@
-# 📚 Bibliothèque Manager
+# 📚 Library Manager
 
 A Python-based **Library Management System** with a stylish GUI using **Tkinter**.  
 It allows users to add, remove, borrow, return, and search books. Features include an alphabetical sort, borrowing history, and a binary search tree for fast book lookup.
